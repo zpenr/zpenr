@@ -23,8 +23,8 @@
 ### 📈 Статистика на GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=default&hide_border=true" alt="Вадим Мясников" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=default&hide_border=true" alt="Вадим Мясников" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zpenr&show_icons=true&theme=default&hide_border=true" alt="Вадим Мясников" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zpenr&layout=compact&theme=default&hide_border=true" alt="Вадим Мясников" height="150"/>
 </p>
 
 ---
