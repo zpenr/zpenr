@@ -13,7 +13,7 @@
 
 | Категория       | Технологии                                                                 |
 |-----------------|----------------------------------------------------------------------------|
-| **Backend**     | Python, Flask                                                             |
+| **Backend**     | Python, Fstapi, Sqlalchemy, Alembic, pytest                                                            |
 | **Data & ML**   | TensorFlow, OpenCV (cv2), Парсинг данных (BeautifulSoup4, Requests, Scrapy)|
 | **Frontend**    | HTML, CSS                                                                  |
 | **Tools**       | Git, GitHub                                                                |
